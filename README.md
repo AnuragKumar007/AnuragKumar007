@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragKumar007
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ Programming Lang.
+- 🌱 I’m currently learning Java Programming Lang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig- mr._anurag_kumar
 
